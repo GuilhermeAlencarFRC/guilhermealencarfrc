@@ -52,7 +52,7 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 40px;" 
+    style="padding-right: 35px;" 
     src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
