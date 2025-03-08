@@ -3,7 +3,7 @@ Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, auto
 
 No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes. Seja bem-vindo(a) para explorar meu trabalho e colaborar em ideias que impulsionem o futuro da tecnologia! 
 
-**`operador de robos e sistemas especiais`**
+**`Operador de Robos e Sistemas Especiais`**
 
  </a> 
     <a href="https://github.com/GuilhermeAlencarFRC?tab=repositories&sort=stargazers">
@@ -17,7 +17,7 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GuilhermeAlencarNienkoetter?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/GuilhermeAlencarfrc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -34,6 +34,15 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
 <br/>
 <br/>
 
@@ -43,7 +52,7 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 40px;" 
     src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
