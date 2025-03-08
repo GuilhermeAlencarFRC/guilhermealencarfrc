@@ -6,8 +6,11 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
 **`Operador de Robos e Sistemas Especiais`**
 **`TEC.Automação Industrial`**
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)<br />
- 
+### Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true&theme=radical&hide_title=true&hide=contribs&card_width=465)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlencarFRC&layout=compact&theme=radical)
+
 ### Linguagens e Tecnologias
 <img 
     align="left" 
@@ -20,19 +23,18 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
 
 <img 
     align="left" 
-    alt="java" 
-    title="java"
+    alt="Java" 
+    title="Java"
     width="30px" 
-    style="padding-right: 40px;" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-
 <img 
-      align="high" 
-      alt="GitHub Stats" 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlencarFRC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
