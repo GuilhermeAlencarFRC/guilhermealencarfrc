@@ -7,7 +7,7 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
 **`TEC.Automação Industrial`**
 
 ### Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true&theme=radical&hide_title=true&hide=contribs&card_width=465)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)<br />
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlencarFRC&layout=compact&theme=radical)
 
