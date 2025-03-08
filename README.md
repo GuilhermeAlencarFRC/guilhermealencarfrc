@@ -4,6 +4,7 @@ Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, auto
 No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes. Seja bem-vindo(a) para explorar meu trabalho e colaborar em ideias que impulsionem o futuro da tecnologia! 
 
 **`Operador de Robos e Sistemas Especiais`**
+**`TEC.Automação Industrial`**
 
  </a> 
     <a href="https://github.com/GuilhermeAlencarFRC?tab=repositories&sort=stargazers">
