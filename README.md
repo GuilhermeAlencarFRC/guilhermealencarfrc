@@ -39,6 +39,16 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 30px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+
 <br /><br />
 
 ### Redes
