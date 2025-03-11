@@ -6,6 +6,9 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
 **`Operador de Robos e Sistemas Especiais`**
 **`TEC.Automação Industrial`**
 
+<img alt="Night Coding" src="https://orig00.deviantart.net/3c21/f/2015/161/6/4/dark_souls___solaire_idle_by_zedotagger-d8wrjt7.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
+
+
 ### Estatísticas do GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)<br />
 
