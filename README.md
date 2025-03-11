@@ -20,8 +20,6 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
  <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
  <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
  <a href="https://ubuntu.com/" target="_blank"> <img alt="Ubuntu" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
-
-
 <br /><br />
 
 ### Redes
