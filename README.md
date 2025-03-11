@@ -1,4 +1,4 @@
-### Olá, eu sou Guilherme Alencar! 
+### Olá, eu sou Guilherme Alencar, sou viadinho, gosto de homens e busco travecos em show de rock. 
 Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Faço parte da equipe LuverControl#10298, que compete na renomada First Robotics Competition (FRC), onde colocamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica.
 
 No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes. Seja bem-vindo(a) para explorar meu trabalho e colaborar em ideias que impulsionem o futuro da tecnologia! 
