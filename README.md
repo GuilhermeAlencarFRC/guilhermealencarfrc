@@ -24,7 +24,7 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
  <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
  <br/><br/>
 
-### Redes
+### Contato
 <div> 
   <a href="https://www.instagram.com/g_alencarkk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermealencarnienkoetter@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
