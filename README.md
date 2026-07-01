@@ -8,7 +8,7 @@
 
 <div data-importer="stats-spotify" align="left">
   <a href="https://open.spotify.com/user/Alencar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fy4f32wcbzip3ixmsrvdhnad3u" height="150" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fy4f32wcbzip3ixmsrvdhnad3u" height="170" alt="Spotify recently played"  />
   </a>
   <img width="12" />
   <img src="https://streak-stats.demolab.com?user=GuilhermeAlencarFRC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
