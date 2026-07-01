@@ -10,7 +10,7 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
 
 
 ### Estatísticas do GitHub
-![Meus stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true)<br/>
+![Meus stats](https://github-readme-stats-sigma-black.vercel.app/api?username=GuilhermeAlencarFRC&show_icons=true)<br/>
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlencarFRC&layout=compact&langs_count=5&theme=radical)
 
