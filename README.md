@@ -71,7 +71,7 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/Alencar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Alencar&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fy4f32wcbzip3ixmsrvdhnad3u" alt="Spotify recently played"  />
   </a>
 </div>
 
