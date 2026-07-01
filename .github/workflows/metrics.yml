@@ -1,0 +1,52 @@
+name: Metrics
+on:
+  # Roda automaticamente todo dia à meia-noite (horário UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite rodar manualmente na aba "Actions" do GitHub quando quiser
+  workflow_dispatch:
+  # Roda também sempre que você der push no repositório
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token automático do GitHub Actions, não precisa criar nada manualmente
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Nome do arquivo SVG gerado
+          filename: metrics.svg
+
+          # Template visual (pode trocar por: classic, terminal, markdown, repository)
+          template: classic
+
+          # Estatísticas básicas: estrelas, commits, linguagens, etc
+          base: header, activity, community, repositories, metadata
+
+          # Linguagens mais usadas
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_recent_categories: languages, markup
+          plugin_languages_recent_days: 14
+
+          # Streak de contribuições (dias seguidos commitando)
+          plugin_habits: yes
+          plugin_habits_charts_type: bars
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+
+          # Estatísticas de commits recentes
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_limit: 5
+
+          # Tema visual (pode trocar por outros disponíveis na doc do projeto)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
