@@ -1,11 +1,8 @@
 name: Metrics
 on:
-  # Roda automaticamente todo dia à meia-noite (horário UTC)
   schedule:
     - cron: "0 0 * * *"
-  # Permite rodar manualmente na aba "Actions" do GitHub quando quiser
   workflow_dispatch:
-  # Roda também sempre que você der push no repositório
   push:
     branches:
       - main
@@ -16,39 +13,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      # === CARD 1: Header limpo com tema escuro moderno ===
+      # Card único e compacto: header + calendário 3D + linguagens juntos,
+      # sem "large" pra não sobrar espaço vazio com poucos dados
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics.header.svg
+          filename: metrics.svg
           template: classic
           base: header
-          config_display: large
           config_theme: dark
           config_animations: yes
+          config_order: header, isocalendar, languages
 
-      # === CARD 2: Calendário 3D de commits (o que você curtiu) ===
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics.isocalendar.svg
-          base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          config_display: large
-          config_theme: dark
-          config_animations: yes
+          plugin_isocalendar_duration: half-year
 
-      # === CARD 3: Linguagens mais usadas, em formato donut (mais moderno) ===
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics.languages.svg
-          base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 6
           plugin_languages_threshold: 2%
-          config_display: large
-          config_theme: dark
-          config_animations: yes
