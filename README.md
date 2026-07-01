@@ -2,11 +2,15 @@
 
 ###
 
-<p data-importer="text" align="center">Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Fiz parte da equipe LuverControl #10298, que compete na renomada First Robotics Competition (FRC), onde colocavamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica.<br><br>No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes.</p>
+<p data-importer="text" align="center">Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Faço parte da equipe LuverControl #10298, que compete na renomada First Robotics Competition (FRC), onde colocamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica.<br><br>No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes.</p>
 
 ###
 
-<div data-importer="stats" align="center">
+<div data-importer="stats-spotify" align="left">
+  <a href="https://open.spotify.com/user/Alencar">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fy4f32wcbzip3ixmsrvdhnad3u" height="230" alt="Spotify recently played"  />
+  </a>
+  <img width="12" />
   <img src="https://streak-stats.demolab.com?user=GuilhermeAlencarFRC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/GuilhermeAlencarFRC/GuilhermeAlencarFRC/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -80,12 +84,3 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&text=More%20Than%20Robots&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Alencar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fy4f32wcbzip3ixmsrvdhnad3u" alt="Spotify recently played"  />
-  </a>
-</div>
-
