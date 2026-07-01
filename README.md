@@ -1,65 +1,76 @@
-<div align="center">
+<h1 data-importer="text" align="center">Óla, eu sou Guilherme Alencar</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8BE93D&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Alencar;Operador+de+Rob%C3%B4s+e+Sistemas+Especiais;Membro+da+equipe+LuverControl+%2310298" alt="Typing SVG" />
+###
 
+<p data-importer="text" align="center">Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Faço parte da equipe LuverControl #10298, que compete na renomada First Robotics Competition (FRC), onde colocamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica.<br><br>No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes.</p>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=GuilhermeAlencarFRC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/GuilhermeAlencarFRC/GuilhermeAlencarFRC/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<br/>
+###
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Faço parte da equipe **LuverControl #10298**, que compete na renomada *First Robotics Competition (FRC)*, onde colocamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica.
-
-No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes.
-
-`Téc. em Automação Industrial` &nbsp;•&nbsp; `FRC #10298`
-
-</td>
-<td width="35%" align="center">
-
-<img alt="Night Coding" src="https://orig00.deviantart.net/3c21/f/2015/161/6/4/dark_souls___solaire_idle_by_zedotagger-d8wrjt7.gif" width="200px" style="border-radius:16px"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 📊 Estatísticas
-
-<img src="./metrics.svg" width="100%" />
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
 </div>
 
-<br/>
+###
 
-<div align="center">
-
-### 🛠️ Linguagens e Tecnologias
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,bash,git,arduino,linux&theme=dark&perline=8" />
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="40" alt="ssh logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="40" alt="labview logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
-<br/>
+###
 
-<div align="center">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeAlencarFRC/GuilhermeAlencarFRC/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeAlencarFRC/GuilhermeAlencarFRC/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeAlencarFRC/GuilhermeAlencarFRC/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-### 📬 Contato
+###
 
-<a href="https://www.instagram.com/g_alencarkk/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:guilhermealencarnienkoetter@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
-<br/>
+###
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&text=More%20Than%20Robots&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
