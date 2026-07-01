@@ -10,7 +10,14 @@ No GitHub, compartilho projetos que refletem minha dedicação à programação,
 
 
 ### Estatísticas do GitHub
-![Meus stats](./metrics.svg)<br/>
+![Header](./metrics.header.svg)
+
+<p align="center">
+  <img src="./metrics.isocalendar.svg" width="48%" />
+  <img src="./metrics.languages.svg" width="48%" />
+</p>
+
+<br/>
 
 ### Linguagens e Tecnologias
   
