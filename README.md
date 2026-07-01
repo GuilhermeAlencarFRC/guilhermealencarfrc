@@ -1,42 +1,65 @@
-### Olá, eu sou Guilherme Alencar! 
-Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Faço parte da equipe LuverControl#10298, que compete na renomada First Robotics Competition (FRC), onde colocamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica.
+<div align="center">
 
-No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes. Seja bem-vindo(a) para explorar meu trabalho e colaborar em ideias que impulsionem o futuro da tecnologia! 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8BE93D&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Alencar;Operador+de+Rob%C3%B4s+e+Sistemas+Especiais;Membro+da+equipe+LuverControl+%2310298" alt="Typing SVG" />
 
-**`Operador de Robos e Sistemas Especiais`**
-**`TEC.Automação Industrial`**
-
-<img alt="Night Coding" src="https://orig00.deviantart.net/3c21/f/2015/161/6/4/dark_souls___solaire_idle_by_zedotagger-d8wrjt7.gif" width="300px" height="250px" style="border-radius:20px" align="right"/>
-
-
-### Estatísticas do GitHub
-![Header](./metrics.header.svg)
-
-<p align="center">
-  <img src="./metrics.isocalendar.svg" width="48%" />
-  <img src="./metrics.languages.svg" width="48%" />
-</p>
+</div>
 
 <br/>
 
-### Linguagens e Tecnologias
-  
- <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
- <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
- <a href="https://www.html.com/" target="_blank"> <img alt="Html5" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
- <a href="https://www.w3.org/" target="_blank"> <img alt="Css3" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
- <a href="https://bash.com/" target="_blank"> <img alt="Bash" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
- <a href="https://git-scm.com/" target="_blank"> <img alt="Git" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
- <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
- <a href="https://www.linux.org/" target="_blank"> <img alt="Linux" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
+<table>
+<tr>
+<td width="65%" valign="top">
 
- <br/><br/>
+Como Operador de Robôs e Sistemas Especiais, tenho paixão por tecnologia, automação e inovação. Faço parte da equipe **LuverControl #10298**, que compete na renomada *First Robotics Competition (FRC)*, onde colocamos em prática soluções criativas e técnicas avançadas para superar desafios de engenharia e robótica.
 
-### Contato
-<div> 
-  <a href="https://www.instagram.com/g_alencarkk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermealencarnienkoetter@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+No GitHub, compartilho projetos que refletem minha dedicação à programação, automação e desenvolvimento de sistemas inteligentes.
+
+`Téc. em Automação Industrial` &nbsp;•&nbsp; `FRC #10298`
+
+</td>
+<td width="35%" align="center">
+
+<img alt="Night Coding" src="https://orig00.deviantart.net/3c21/f/2015/161/6/4/dark_souls___solaire_idle_by_zedotagger-d8wrjt7.gif" width="200px" style="border-radius:16px"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📊 Estatísticas
+
+<img src="./metrics.svg" width="100%" />
+
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<br/>
 
+<div align="center">
+
+### 🛠️ Linguagens e Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,bash,git,arduino,linux&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📬 Contato
+
+<a href="https://www.instagram.com/g_alencarkk/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:guilhermealencarnienkoetter@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
