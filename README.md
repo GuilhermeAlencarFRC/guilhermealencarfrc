@@ -69,14 +69,6 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Alencar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fy4f32wcbzip3ixmsrvdhnad3u" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeAlencarFRC/GuilhermeAlencarFRC/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeAlencarFRC/GuilhermeAlencarFRC/pacman-output/pacman-contribution-graph.svg?game=pacman">
@@ -90,3 +82,10 @@
 </div>
 
 ###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/Alencar">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fy4f32wcbzip3ixmsrvdhnad3u" alt="Spotify recently played"  />
+  </a>
+</div>
+
